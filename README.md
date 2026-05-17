@@ -1,1 +1,1 @@
-Este foi apenas um teste pro projeto da faculdade.
+Este foi um projeto de programção Web para a faculdade, usando HTML e CSS.
